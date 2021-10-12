@@ -1,45 +1,49 @@
 h1{
-    color: rgb(250, 15, 199);
+    color: darkgreen;
 }
 
 h2{
-    color: rgb(250, 158, 189);
+    color: palevioletred;
 }
 
 h3{
-    color: rgb(141, 2, 233);
+    color: darkgreen;
 }
 
 h4{
-    color: rgb(61, 231, 253);
+    color: palevioletred;
 }
 
 h5{
-    color: rgb(245, 60, 13);
+    color: darkgreen;
 }
 
 h6{
-    color: rgb(25, 236, 219);
+    color:palevioletred;
 }
 
 h7{
-    color: rgb(19, 243, 11);
+    color:darkgreen;
 }
 
 h8{
-    color: rgb(255, 251, 0);
+    color:palevioletred;
 }
 
 h9{
-    color: rgb(240, 14, 89);
+    color: darkgreen;
 }
 
 h10{
-    color: rgb(6, 2, 243);
+    color:light palevioletred;
 }
 
 ul{
     color: black;
 }
 
-
+div{
+    width: auto;
+    height: auto;
+    background-color: beige;
+}
