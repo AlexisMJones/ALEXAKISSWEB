@@ -24,3 +24,33 @@ p{
     color: darkgreen;
     font-size: 15;
 }
+
+[contenteditable] {
+    color: rgb(255, 167, 4);
+    border: 3px dashed black;
+}
+
+[href] {
+    border: 1px dashed rgb(255, 233, 106);
+}
+
+body{
+    font size: 25px;
+    text-align: center;
+}
+
+[target=_blank] {
+    color:coral;
+}
+
+a:link {
+    color: coral;
+}
+
+a: :visited {
+    color: purple
+}
+
+a:active {
+    color: yellow;
+}
