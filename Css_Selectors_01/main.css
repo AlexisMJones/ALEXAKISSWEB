@@ -39,14 +39,16 @@ body{
     text-align: center;
 }
 
-
-
 a:link {
     color: coral;
 }
 
 a:visited {
     color: purple
+}
+
+a:hover {
+    color: violet;
 }
 
 a:active {
