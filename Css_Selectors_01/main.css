@@ -39,15 +39,13 @@ body{
     text-align: center;
 }
 
-[target=_blank] {
-    color:coral;
-}
+
 
 a:link {
     color: coral;
 }
 
-a: :visited {
+a:visited {
     color: purple
 }
 
