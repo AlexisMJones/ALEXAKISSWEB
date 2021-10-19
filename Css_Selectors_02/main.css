@@ -28,17 +28,14 @@ li:nth-child(Odd) {
     color: rgb(138, 4, 138);
 }
 
-a:focus {
-    color: turquoise;
+li:only-child{
+    color: rgb(62, 255, 143);
 }
 
-a {
-    font-size: 50px;
+li:last-child(10){
+    color: rgb(29, 7, 226);
 }
 
-input:focus {
-    border: 3px solid orange;
+li:nth-child(3n+2){
+    color: red;
 }
-
-
-
