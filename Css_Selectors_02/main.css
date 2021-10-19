@@ -1,0 +1,54 @@
+
+div{
+    width: auto;
+    height: auto;
+    background-color: rgb(247, 247, 245);
+}
+
+header{
+    font-size: 12em;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 3em;
+}
+
+.emphasize{
+    color: hotpink;
+    font-size: 20;
+}
+
+#promote{
+    color: darkgreen;
+    font-size: 15;
+}
+
+[contenteditable] {
+    color: rgb(255, 167, 4);
+    border: 3px dashed black;
+}
+
+
+
+body{
+    font-size: 25px;
+    text-align: center;
+}
+
+a:link {
+    color: coral;
+}
+
+a:visited {
+    color: purple
+}
+
+a:hover {
+    color: violet;
+}
+
+a:active {
+    color: yellow;
+}
