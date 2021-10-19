@@ -24,3 +24,7 @@ a:focus {
 a {
     font-size: 50px;
 }
+
+input:focus {
+    border: 3px solid orange;
+}
