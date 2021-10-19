@@ -1,19 +1,31 @@
 
-div{
-    width: auto;
-    height: auto;
-    background-color: rgb(255, 255, 131);
-}
-
 p{
     text-align: center;
     font-size: 3em;
 }
 
-
 body{
-    font-size: 25px;
-    text-align: center;
+    font-size: 35px;
+}
+
+li:first-child{
+    color: rgb(29, 7, 226);
+}
+
+ul:first-child{
+    background-color: palegreen;
+}
+
+ul:last-child{
+    background-color: rgb(99, 253, 253);
+}
+
+li:nth-child(Even) {
+    color: plum;
+}
+
+li:nth-child(Odd) {
+    color: rgb(138, 4, 138);
 }
 
 a:focus {
@@ -27,4 +39,6 @@ a {
 input:focus {
     border: 3px solid orange;
 }
+
+
 
