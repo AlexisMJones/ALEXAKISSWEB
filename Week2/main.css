@@ -28,3 +28,23 @@ div{
     height: auto;
     background-color: beige;
 }
+
+header{
+    font-size: 12em;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 3em;
+}
+
+.emphasize{
+    color: hotpink;
+    font-size: 20;
+}
+
+#promote{
+    color: darkgreen;
+    font-size: 15;
+}
