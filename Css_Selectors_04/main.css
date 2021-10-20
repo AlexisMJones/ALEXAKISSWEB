@@ -4,9 +4,6 @@ body {
     padding-top: 30px;
 }
 
-div > p {
-    color: rgb(224, 10, 243);
-}
 
 div p {
     color: seagreen;
@@ -19,4 +16,8 @@ div ~ p {
 
 div + p {
     color: turquoise;
+}
+
+div > p {
+    color: rgb(224, 10, 243);
 }
