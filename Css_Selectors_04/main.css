@@ -4,6 +4,19 @@ body {
     padding-top: 30px;
 }
 
+div > p {
+    color: rgb(224, 10, 243);
+}
+
 div p {
     color: seagreen;
+}
+
+
+div ~ p {
+    color: rgb(0, 255, 55);
+}
+
+div + p {
+    color: turquoise;
 }
