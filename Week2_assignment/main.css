@@ -1,21 +1,26 @@
 body {
-    font-size: 30px;
-    padding-top: 30px;
-}
+        font-size: 30px;
+        text-align: center;
+        padding-top: 30px;
+        background-color: rgb(255, 255, 255);
+    }
+
 
 h1 {
+    background-color: rgb(157, 235, 255);
     text-align: center;
     color: rgb(12, 12, 95);
 
 }
 
 h2 {
+    background-color: rgb(255, 162, 235);
     text-align: center;
-    color: rgb(255, 125, 4);
+    color: rgb(83, 3, 63);
 }
 
-div p {
-    color: seagreen;
+div p, li {
+    color: rgb(113, 22, 233);
     text-align: left;
 }
 
