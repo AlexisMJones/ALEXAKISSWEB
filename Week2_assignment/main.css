@@ -1,12 +1,17 @@
 body {
     font-size: 30px;
-    text-align: center;
     padding-top: 30px;
 }
 
+h1, h2 {
+    text-align: center;
+    color: rgb(12, 12, 95);
+
+}
 
 div p {
     color: seagreen;
+    text-align: left;
 }
 
 
