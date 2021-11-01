@@ -10,6 +10,9 @@ h1 {
     background-color: rgb(157, 235, 255);
     text-align: center;
     color: rgb(12, 12, 95);
+    height: max-content;
+    width: min-content;
+    border-style: dotted;
 
 }
 
@@ -17,6 +20,10 @@ h2 {
     background-color: rgb(255, 162, 235);
     text-align: center;
     color: rgb(83, 3, 63);
+    height: auto;
+    width:  auto;
+    border: double;
+
 }
 
 div p, li {
@@ -25,5 +32,9 @@ div p, li {
 }
 
 div > p {
+    background-color: lemonchiffon;
     color: rgb(16, 141, 79);
+    height: auto;
+    width: auto;
+    border-style: initial;
 }
