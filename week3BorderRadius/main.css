@@ -1,0 +1,25 @@
+div{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url(img/twodog.jpg);
+    background-size: 300px;
+}
+
+img{
+    border: 10px groove rgb(60, 255, 0);
+    border-radius: 100%;
+}
+
+.dogone {
+    border: 10px groove rgb(96, 9, 235);
+    width: 500px;
+    height: auto;
+}
+
+.dogtwo {
+    border: 10px groove rgb(235, 9, 197);
+    width: 500px;
+    height: auto;
+}
