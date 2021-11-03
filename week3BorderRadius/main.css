@@ -3,23 +3,31 @@ div{
     height: 300px;
     border: 1px solid red;
     border-radius: 100%;
-    background-image: url(img/twodog.jpg);
-    background-size: 300px;
+    background-image: url(../Week3_assignments/img/sixlemon.jpg)
 }
 
-img{
-    border: 10px groove rgb(60, 255, 0);
-    border-radius: 100%;
-}
-
-.dogone {
+.lemonone {
     border: 10px groove rgb(96, 9, 235);
-    width: 500px;
+    width: 200px;
     height: auto;
 }
 
-.dogtwo {
+
+.lemonthree {
+    border: 10px groove rgb(96, 9, 235);
+    width: 200px;
+    height: auto;
+}
+
+.lemonfour {
     border: 10px groove rgb(235, 9, 197);
-    width: 500px;
+    width: 300px;
+    height: auto;
+}
+
+
+.lemonfive {
+    border: 10px groove rgb(209, 255, 4);
+    width: 200px;
     height: auto;
 }
