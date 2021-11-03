@@ -1,25 +1,43 @@
+body {
+    background-color: khaki;
+}
+
 div{
     width: 300px;
     height: 300px;
-    border: 1px solid red;
+    border: 1px solid #ff0000;
     border-radius: 100%;
-    background-image: url(img/twodog.jpg);
-    background-size: 300px;
+    margin: inherit;
+    background-image: url(../Week3_assignments/img/sixlemon.jpg)
+  
 }
 
-img{
-    border: 10px groove rgb(60, 255, 0);
+.lemonone {
+    border: 10px groove rgb(9, 235, 20);
+    width: 200px;
+    height: auto;
     border-radius: 100%;
 }
 
-.dogone {
+
+.lemonthree {
     border: 10px groove rgb(96, 9, 235);
-    width: 500px;
+    width: 200px;
     height: auto;
+    border-radius: 100%;
 }
 
-.dogtwo {
+.lemonfour {
     border: 10px groove rgb(235, 9, 197);
-    width: 500px;
+    width: 300px;
     height: auto;
+    border-radius: 100%;
+}
+
+
+.lemonfive {
+    border: 10px groove rgb(255, 117, 4);
+    width: 200px;
+    height: auto;
+    border-radius: 100%;
 }
