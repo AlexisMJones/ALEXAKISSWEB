@@ -2,3 +2,14 @@ body {
     background-color: khaki;
 }
 
+p {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h1 {
+    font-family: serif;
+    font-size: 50px;
+}
