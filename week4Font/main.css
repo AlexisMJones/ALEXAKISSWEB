@@ -1,5 +1,5 @@
 body {
-    background-color: khaki;
+    background-color: rgb(255, 251, 218);
 }
 
 p {
@@ -12,4 +12,27 @@ p {
 h1 {
     font-family: serif;
     font-size: 50px;
+    font-variant: small-caps;
+    text-shadow: 3px 3px #ff0000;
 }
+
+h2{
+    text-transform: capitalize;
+    font-style: italic;
+    font-family: serif;
+    font-size: 50px;
+    font-variant: small-caps;
+}
+
+li {
+    line-height: 2;
+    font-family: serif;
+    font-size: small;
+    font-weight: normal;
+
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
