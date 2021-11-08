@@ -1,0 +1,27 @@
+h1 {
+    font-size: 20px;
+    color: blue;
+    
+}
+
+h2 {
+    font-size: 20px;
+    color: red;
+
+}
+
+body {
+    background-color: royalblue;
+
+}
+
+article{
+    border:springgreen
+}
+
+img {
+    border: 15px groove yellow;
+    margin: 20px;
+    box-sizing: border-box;
+    border-radius: 100%;
+}
