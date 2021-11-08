@@ -4,6 +4,10 @@ h2{
     text: center;
 }
 
+header {
+    width: 40%;
+}
+
 body {
     background-color: lightpink;
 }
