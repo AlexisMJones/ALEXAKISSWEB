@@ -3,7 +3,7 @@ body {
 }
 
 div {
-    border: 2px solid black;
+    border: 2px solid rgb(255, 3, 200);
     height: 100px;
     width: 400px;
 }
