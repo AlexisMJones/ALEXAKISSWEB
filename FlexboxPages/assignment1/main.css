@@ -1,0 +1,41 @@
+html, body, main, div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 200px;
+    height: 75px;
+    border: 3px solid rgb(137, 2, 247);
+    background-color: rgb(240, 145, 240);
+    font: 2rem times;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    flex-basis: auto;
+    flex-grow: 1;
+}
+
+#s19 {
+    flex-grow: 1;
+}
+
+#s20 {
+    flex-grow: 2;
+}
+
+main {
+    height: 100vh;
+    border: 3px solid rgb(255, 0, 221);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+}
