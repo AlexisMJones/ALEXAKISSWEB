@@ -15,8 +15,12 @@ body {
 
 }
 
-article{
-    border:springgreen
+
+div{
+  background-color: springgreen;
+  border-style:solid;
+  float: right;
+  margin-left: 50px;
 }
 
 img {
